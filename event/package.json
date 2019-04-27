@@ -1,0 +1,16 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "This is project dule with event in node core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "author": "rkritchat",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^11.13.8",
+    "esm": "^3.2.22"
+  }
+}
